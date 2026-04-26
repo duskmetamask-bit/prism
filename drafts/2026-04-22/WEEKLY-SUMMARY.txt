@@ -1,0 +1,26 @@
+📝 WEEKLY CONTENT READY
+========================================
+
+Draft 1:
+  Topic: AI agents and automation for businesses
+  Hook: prediction
+  File: /home/dusk/.hermes/agents/prism/drafts/2026-04-22/thread-01.md
+
+Draft 2:
+  Topic: EMVY launch and client acquisition
+  Hook: counterintuitive
+  File: /home/dusk/.hermes/agents/prism/drafts/2026-04-22/thread-02.md
+
+Draft 3:
+  Topic: EMVY launch and client acquisition
+  Hook: prediction
+  File: /home/dusk/.hermes/agents/prism/drafts/2026-04-22/thread-03.md
+
+========================================
+Total drafts: 3
+
+Review each thread in the drafts folder.
+Copy → Buffer → Schedule.
+
+After posting, come back and tell me the results
+so I can update PRISM's content bank.

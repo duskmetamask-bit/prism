@@ -1,0 +1,101 @@
+# PRISM User Profile — DuskWun
+# Fill this in once. PRISM reads it for every piece of content.
+# Update anytime your goals or voice changes.
+
+name: DuskWun
+
+# 3-5 topics you post about most
+topics:
+  - AI agents and automation for businesses
+  - Building in public / "Shut Up and Build" brand
+  - Crypto and Web3 (BTC, ETH, Solana)
+  - Business growth for tradies and SMBs (Perth/Australia focus)
+  - EMVY (AI audit agency)
+
+# How you sound when you post
+voice:
+  style: |
+    Direct, no fluff, gets to the point fast.
+    Short sentences. Action-oriented. Tells it like it is.
+    Doesn't sound corporate or guru-like.
+
+  tone: |
+    Confident, sometimes contrarian.
+    Builder mindset — "stop talking, start shipping."
+    Occasionally self-deprecating about the journey.
+    Doesn't over-hype or use exclamation marks.
+
+  sounds_like: |
+    A tradie who figured out tech.
+    A mate who's building something real.
+    Someone who's done the work and has the receipts.
+
+  avoids: |
+    - Corporate buzzwords ("leveraging", "synergy", "disruptive")
+    - Vague claims ("great results", "amazing progress")
+    - Engagement bait ("tag a friend who...", "like if you agree")
+    - Thread-for-the-sake-of-threading
+    - Posting links in the main tweet body
+    - Hashtag overload (max 2 per post)
+
+# What you're trying to achieve
+goals:
+  primary: |
+    Grow following and establish authority in AI + building in public space.
+    "Shut Up and Build" brand recognition.
+
+  secondary: |
+    Build credibility for EMVY (AI audit agency).
+    Drive people to follow for updates on what we're building.
+
+  target_audience: |
+    Tradies and SMB owners in Perth/Australia (primary for EMVY).
+    Indie hackers, builders, AI-curious founders (secondary for personal brand).
+    People who want to see real work, not hype.
+
+  call_to_action_style: |
+    Ask a question at the end to drive replies.
+    Or: "Save this if you know a [tradie/SMB owner] who needs to hear this."
+    Never: "Follow for more!"
+
+# Which platforms and when
+platforms:
+  - X  # primary
+  - LinkedIn  # secondary
+  - YouTube  # future
+
+posting_schedule:
+  X:
+    windows:
+      - "9:00 AM AWST (Perth)"
+      - "12:00 PM AWST"
+      - "6:00 PM AWST"
+    posts_per_week: 5-7
+    thread_preference: true  # prefer threads over single tweets
+
+  LinkedIn:
+    windows:
+      - "8:00 AM AWST (Tuesday-Thursday)"
+    posts_per_week: 2-3
+
+# Content type mix (% of weekly posts)
+content_mix:
+  personal_story: 30    # "I almost gave up..." / building in public
+  tips_lessons: 25      # "The [N] things I learned..."
+  hot_take: 20          # "[X] is wrong because..."
+  tool_resource: 15     # "I tested [tool] for 30 days..."
+  engagement: 10        # questions, polls, callouts
+
+# Evergreen topics (can post about anytime)
+evergreen_topics:
+  - AI automation for small businesses
+  - Ship fast, learn faster
+  - Building in public (transparency)
+  - Perth/Australian business landscape
+  - Bitcoin and crypto (non-financial-advice)
+
+# Trending/specific topics (current only)
+current_topics:
+  - EMVY launch and client acquisition
+  - CALLIE (voice agent) development
+  - PRISM content agent development
